@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm Logan (@loganfx924) 👋
 
-<!--
-**loganfx924/loganfx924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile engineer based in Taipei. Mostly build cross-platform apps that actually feel native. Currently doing client work at App Studio and tinkering with offline-first sync architecture.
 
-Here are some ideas to get you started:
+#### What I'm into right now
+- 📱 Shipping production Flutter & React Native apps
+- 🧪 Digging deeper into native bridges (Swift/Kotlin) and Dart macros
+- ⚡ Optimizing UI render performance and local caching (Isar, WatermelonDB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech & Tools
+- **Mobile:** Flutter, Dart, React Native, TypeScript
+- **Backend & Cloud:** Firebase, Supabase, Node.js
+- **DevOps/CI:** Fastlane, GitHub Actions, Xcode, Android Studio
+
+#### Reach out
+- Email: `logan.fx924@gmail.com`
+- LinkedIn: [linkedin.com/in/loganfx924](https://linkedin.com)
+- X/Twitter: [@loganfx924](https://x.com)
